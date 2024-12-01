@@ -1,0 +1,18 @@
+<!--<?xml version="1.0" encoding="UTF-8" ?>-->
+<!--<!DOCTYPE mapper-->
+<!--        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"-->
+<!--        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">-->
+<!--&lt;!&ndash;namespace 必须接口的全类名&ndash;&gt;-->
+<!--<mapper namespace="org.example.mapper.BookMapper">-->
+<!--    &lt;!&ndash; 动态sql   &ndash;&gt;-->
+<!--&lt;!&ndash;    id必须与对应mapper中的方法名一样&ndash;&gt;-->
+<!--&lt;!&ndash;    resultType对应数据类型&ndash;&gt;-->
+<!--    <select id="searchBooks" resultType="org.example.entity.Books">-->
+<!--        select * from books-->
+<!--        <where>-->
+<!--            <if test="">-->
+<!--                -->
+<!--            </if>-->
+<!--        </where>-->
+<!--    </select>-->
+<!--</mapper>-->
